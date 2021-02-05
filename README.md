@@ -2,7 +2,19 @@
 
 ## My name is Sunny Park and I'm a Software Engineer.
 
-## :pushpin: About me 
+## :rocket: About me 
+| Personal Website     | Resume |
+| ---      | ---       |
+| <a href="https://parks38.githu.io">
+    <img 
+        src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"
+        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+</a>  | ` <a href = "">
+    <img 
+        src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+</a>        |
+
 :rocket: Personal Website : <a href="https://parks38.githu.io">
     <img 
         src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"
@@ -35,16 +47,6 @@
     <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"/>
 </p>
 
-
-
-## ⚡ Fun fact: ...
-<div float="left">
-You can follow my :cat: :arrow_right:   
-<a href="https://instagram.com/roii_meow">
-<img alt="Instagram" src="https://img.shields.io/badge/Instagram%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/>
-
-</a>
-<div>
 
 
 <!--
