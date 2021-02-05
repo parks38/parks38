@@ -3,7 +3,7 @@
 ### My name is Sunny Park and I'm a Software Engineer.
 
 ### :white_check_mark: &nbsp; About me 
-:rocket: &nbsp; Personal Website :&nbsp; <a href="https://parks38.githu.io">
+:rocket: &nbsp; Personal Website :&nbsp; <a href="https://parks38.github.io">
     <img 
         src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
