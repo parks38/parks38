@@ -1,25 +1,28 @@
-## Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-## My name is Sunny Park and I'm a software Engineer.
+# My name is Sunny Park and I'm a software Engineer.
 
-# :pushpin: More About me 
-* checkout my website : <a href="https://parks38.githu.io">
+## :pushpin: More About me 
+* Personal Website : <a href="https://parks38.githu.io">
     <img 
         src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
+* Resume : 
 <a href = "">
     <img 
         src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 
-# :computer: Skills :
+## :computer: Skills :
+<p float="left">
+
 <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/>
 <img alt="Spring" src="https://img.shields.io/badge/spring%20-%236DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white"/>
 <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
 <img alt="Oracle" src ="https://img.shields.io/badge/oracle%20-%23F00000.svg?&style=for-the-badge&logo=oracle&logoColor=white" />
-
+</p>
 
 <img alt="HTML5" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
 <img alt="CSS3" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
@@ -31,8 +34,8 @@
 
 
 
-# ⚡ Fun fact: ...
-You can follow my :cat: on instagram
+## ⚡ Fun fact: ...
+You can follow my :cat: on  
 <a href="https://instagram.com/roii_meow">
 <img alt="Instagram" src="https://img.shields.io/badge/<Instagram>%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/>
 
