@@ -1,14 +1,14 @@
 # Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-# My name is Sunny Park and I'm a software Engineer.
+## My name is Sunny Park and I'm a Software Engineer.
 
 ## :pushpin: More About me 
-* Personal Website : <a href="https://parks38.githu.io">
+:rocket: Personal Website : <a href="https://parks38.githu.io">
     <img 
         src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
-* Resume : 
+:rocket: Resume : 
 <a href = "">
     <img 
         src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
