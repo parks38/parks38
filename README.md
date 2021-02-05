@@ -1,8 +1,8 @@
-# Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+## Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-## My name is Sunny Park and I'm a Software Engineer.
+### My name is Sunny Park and I'm a Software Engineer.
 
-## :white_check_mark: &nbsp; About me 
+### :white_check_mark: &nbsp; About me 
 :rocket: &nbsp; Personal Website :&nbsp; <a href="https://parks38.githu.io">
     <img 
         src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"
@@ -15,7 +15,7 @@
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 
-## :computer: &nbsp; Skills :
+### :computer: &nbsp; Skills :
 <p float="left">
     <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/>&nbsp;
     <img alt="Spring" src="https://img.shields.io/badge/spring%20-%236DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white"/>&nbsp;
