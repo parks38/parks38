@@ -5,7 +5,7 @@
 ### :pushpin: More About me 
 <a href="https://parks38.githu.io">
     <img 
-        src="http://img.shields.io/badge/-Tech%20Blog-655ced?style=flat&logo=github&link=https://alpox.kr"
+        src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 <a href = "">
@@ -15,7 +15,23 @@
 </a>
 
 ### :computer: Skills :
-
+<img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/>
+<img 
+        src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"
+        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+<img 
+        src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white"
+        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+<img 
+        src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white
+"
+        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+<img 
+        src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"
+        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+<img 
+        src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"
+        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 
 
 ### ⚡ Fun fact: ...
