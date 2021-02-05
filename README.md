@@ -2,8 +2,8 @@
 
 ## My name is Sunny Park and I'm a software Engineer.
 
-### :pushpin: More About me 
-<a href="https://parks38.githu.io">
+# :pushpin: More About me 
+* checkout my website : <a href="https://parks38.githu.io">
     <img 
         src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
@@ -14,7 +14,7 @@
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 
-### :computer: Skills :
+# :computer: Skills :
 <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/>
 <img alt="Spring" src="https://img.shields.io/badge/spring%20-%236DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white"/>
 <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
@@ -31,12 +31,11 @@
 
 
 
-### ⚡ Fun fact: ...
+# ⚡ Fun fact: ...
 You can follow my :cat: on instagram
 <a href="https://instagram.com/roii_meow">
-    <img 
-        src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://instagram.com/alpox.dev/"
-        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+<img alt="Instagram" src="https://img.shields.io/badge/<Instagram>%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/>
+
 </a>
 
 
