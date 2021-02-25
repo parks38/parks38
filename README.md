@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=soft&color=_#FFB7C5&height=80&section=header&text=Sunny%20Park&fontSize=50)
+![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=80&section=header&text=Sunny%20Park&fontSize=50)
 
 
 ## Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 
