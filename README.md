@@ -1,7 +1,7 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=random&height=300&section=header&text=Sunny%20%20Park&fontSize=70)
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Sunny%20%20Park&fontSize=70)
 
 
-## Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+## Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 
 
 
 ### I'm a Software Engineer.
@@ -9,9 +9,17 @@
 ### :white_check_mark: &nbsp; About me 
 :rocket: &nbsp; Personal Website :&nbsp; <a href="https://parks38.github.io">
     <img 
-        src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=Tech_blog&logoColor=white"
-        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-</a> <br><br>
+        src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"
+        style="height : auto; margin-left : 10px; margin-right : 10px;"/> 
+    
+</a> &nbsp; &nbsp;
+<a href="https://parks38.tistory.com/">
+    <img 
+        src="https://img.shields.io/badge/-Tech%20blog-blue?style=flat-square&logo=github&link=https://zzsza.github.io/"
+        style="height : auto; margin-left : 10px; margin-right : 10px;"/> 
+    
+</a>
+<br><br>
 :rocket: &nbsp; Resume : &nbsp;
 <a href = "">
     <img 
