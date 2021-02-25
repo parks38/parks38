@@ -12,7 +12,7 @@
         src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/> 
     
-</a> &nbsp; &nbsp;
+</a> &nbsp;
 <a href="https://parks38.tistory.com/">
     <img 
         src="https://img.shields.io/badge/-Tech%20blog-blue?style=flat-square&logo=github&link=https://zzsza.github.io/"
