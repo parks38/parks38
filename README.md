@@ -7,7 +7,7 @@
 ### I'm a Software Engineer.
 
 ### :white_check_mark: &nbsp; About me 
-<p>
+<p float = "center">
     :rocket: &nbsp; Personal Website :&nbsp; 
     <a href="https://parks38.github.io">
         <img 
