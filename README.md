@@ -1,10 +1,10 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=230&section=header&text=Sunny%20%20Park&fontSize=50)
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=50&section=header&&fontSize=50)
 
 
 ## Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 
 
 
-### I'm a Software Engineer.
+### My name is Sunny Park. I'm a Software Engineer.
 
 ### :white_check_mark: &nbsp; About me 
 <p>
