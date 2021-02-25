@@ -5,7 +5,7 @@
 ### :white_check_mark: &nbsp; About me 
 :rocket: &nbsp; Personal Website :&nbsp; <a href="https://parks38.github.io">
     <img 
-        src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"
+        src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=Tech_blog&logoColor=white"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a> <br><br>
 :rocket: &nbsp; Resume : &nbsp;
