@@ -9,10 +9,11 @@
 ### :white_check_mark: &nbsp; About me 
 <p float = "center">
     :rocket: &nbsp; Personal Website :&nbsp; 
+    <!--
     <a href="https://parks38.github.io">
         <img 
             src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"
-            style="height : auto; margin-left : 10px; margin-right : 10px;"/> </a> &nbsp; &nbsp;
+            style="height : auto; margin-left : 10px; margin-right : 10px;"/> </a> &nbsp; &nbsp; -->
     <a href="https://parks38.tistory.com/">
         <img 
             src="https://img.shields.io/badge/-Tech%20blog-yellowgreen?style=for-the-badge&logo=github&link=https://zzsza.github.io/"
