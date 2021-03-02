@@ -8,7 +8,7 @@
 
 ### :white_check_mark: &nbsp; About me 
 <p float = "center">
-    :rocket: &nbsp; Personal Website :&nbsp; 
+    :rocket: &nbsp; **Personal Website** :&nbsp; 
     <!--
     <a href="https://parks38.github.io">
         <img 
@@ -20,7 +20,7 @@
             style="height : auto; margin-left : 10px; margin-right : 10px;"/> </a>
 </p>
 <br>
-:rocket: &nbsp; Resume : &nbsp;
+:rocket: &nbsp; **Resume** : &nbsp;
 <a href = "">
     <img 
         src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
