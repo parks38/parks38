@@ -19,19 +19,11 @@
             src="https://img.shields.io/badge/-Tech%20blog-yellowgreen?style=for-the-badge&logo=github&link=https://zzsza.github.io/"
             style="height : auto; margin-left : 10px; margin-right : 10px;"/> </a>
 </p>
-<br>
-:rocket: &nbsp; Resume : &nbsp;
-<a href = "">
-    <img 
-        src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
-        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-</a>
 
 ### :computer: &nbsp; Skills :
 <p>
     <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/>&nbsp;
     <img alt="Spring" src="https://img.shields.io/badge/spring%20-%236DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white"/>&nbsp;
-    <img alt="Ruby" src="https://img.shields.io/badge/ruby-%23CC342D.svg?&style=for-the-badge&logo=ruby&logoColor=white"/>&nbsp;
 
 </p>
 
